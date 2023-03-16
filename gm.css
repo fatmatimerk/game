@@ -371,7 +371,7 @@ a{
        /*---------login style---------*/
 
        .logcontent{
-        height: 800px ;
+        height: 1100px ;
         display: grid;
         grid-template-areas:
         "lo"
